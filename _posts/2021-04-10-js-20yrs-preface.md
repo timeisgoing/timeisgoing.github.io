@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+title:        "小试一下LangGraph"
+author:       "showb_1"
 header-style: text
 catalog:      true
 tags:
